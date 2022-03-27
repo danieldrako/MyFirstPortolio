@@ -1,3 +1,4 @@
+alert('Bienvenido. Esta es la primera versión de mi portafolio, ten en cuenta que este sitio aún está en construcción, por lo que día a día integraré nuevas funcionalidades y mejoras ')
 const navToggle = document.querySelector(".nav-toggle");
 const navMenu = document.querySelector(".nav-menu");
 // const navClose = document.querySelectorAll(".nav-menu-item a");
